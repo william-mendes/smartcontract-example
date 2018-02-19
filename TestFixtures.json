@@ -1,0 +1,14 @@
+{
+  "ETHER_CAP"               : 12000,
+  "TOKEN_CAP"               : 130000000000,
+  "TEAM_SUPPLY_PERCENTAGE"  : 10,
+
+  "ICO_RATE"       : 10000,
+  "BONUSES"        : [30, 20, 10],
+
+  "MIN_TO_INVEST"  : 100,
+
+  "TOKEN_NAME"     : "MySimpleToken",
+  "TOKEN_SYMBOL"   : "MST",
+  "TOKEN_DECIMALS" : 18
+}
